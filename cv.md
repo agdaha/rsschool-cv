@@ -23,7 +23,7 @@ I am constantly in search of new knowledge.
 
 ## __Code Example__
 
-```
+```go
     package main
      
     import (
